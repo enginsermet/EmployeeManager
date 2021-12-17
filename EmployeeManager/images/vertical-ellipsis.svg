@@ -1,0 +1,24 @@
+<!--?xml version="1.0" standalone="no"?--><svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000" preserveAspectRatio="xMidYMid meet">
+<metadata>
+  <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:description dc:title="vertical ellipsis" dc:publisher="Hiox" dc:date="2015-05-15" dc:format="image/svg+xml" dc:language="en">
+      <dc:creator>
+        <rdf:bag>
+          <rdf:li>svgimages.com</rdf:li>
+        </rdf:bag>
+      </dc:creator>
+    </rdf:description>
+  </rdf:rdf>
+</metadata>
+<g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)" fill="#0F0F0F" stroke="none">
+<path d="M1435 2315 c-36 -18 -75 -75 -75 -109 0 -33 24 -88 49 -110 29 -27
+109 -33 153 -12 65 31 87 124 45 187 -39 58 -108 76 -172 44z" id="node1" class="node"></path>
+<path d="M1432 1630 c-95 -58 -93 -183 3 -230 50 -24 76 -25 122 -3 69 32 91
+108 53 183 -33 66 -115 88 -178 50z" id="node2" class="node"></path>
+<path d="M1434 969 c-30 -15 -74 -88 -74 -125 0 -74 88 -141 163 -124 91 20
+134 109 92 190 -31 61 -118 89 -181 59z" id="node3" class="node"></path>
+</g>
+<g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)" fill="#A1A1A1" stroke="none">
+
+</g>
+</svg>
